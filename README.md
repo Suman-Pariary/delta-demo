@@ -1,2 +1,2 @@
 # delta-demo
-This is for ern only
+This is for learn only
